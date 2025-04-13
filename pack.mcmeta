@@ -1,42 +1,10 @@
 {
   "pack": {
-    "pack_format": 48,
+    "pack_format": 15,
     "description": "Pack of fixes made by macuguita"
   },
   "filter": {
     "block": [
-      {
-        "namespace": "beansbackpacks",
-        "path": "recipe/quiver.json"
-      },
-      {
-        "namespace": "beansbackpacks",
-        "path": "recipe/netherite_lunch_box.json"
-      },
-      {
-        "namespace": "beansbackpacks",
-        "path": "recipe/lunch_box.json"
-      },
-      {
-        "namespace": "beansbackpacks",
-        "path": "recipe/leather_backpack.json"
-      },
-      {
-        "namespace": "beansbackpacks",
-        "path": "recipe/iron_backpack.json"
-      },
-      {
-        "namespace": "beansbackpacks",
-        "path": "recipe/iron_backpack_upgrade.json"
-      },
-      {
-        "namespace": "beansbackpacks",
-        "path": "recipe/gold_backpack.json"
-      },
-      {
-        "namespace": "beansbackpacks",
-        "path": "recipe/gold_backpack_upgrade.json"
-      }
     ]
   }
 }
