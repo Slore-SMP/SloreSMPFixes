@@ -1,0 +1,9 @@
+styled-nicknames set macuguita <c:#f0f000>ీ</c>ꐘ <c:#f0f000>macuguita</c>
+styled-nicknames set nicoltines <c:#f0f004>ே</c>ఋ <c:#f0f004>nicoltines</c>
+styled-nicknames set dayasaur <c:#f0f004>ே</c>ఋ <c:#f0f004>dayasaur</c>
+styled-nicknames set Dylan_Kennedy_ <c:#f0f008>ఀ</c>ఆ <c:#f0f008>Dylan_Kennedy_</c>
+styled-nicknames set Marcos3107 <c:#f0f008>ఀ</c>ఆ <c:#f0f008>Marcos3107</c>
+styled-nicknames set Lowkey_kass <c:#f0f008>ఀ</c>ఆ <c:#f0f008>Lowkey_kass</c>
+styled-nicknames set ZANmeow <c:#f0f008>ఀ</c>ఆ <c:#f0f008>ZANmeow</c>
+styled-nicknames set its3vie <c:#f0f008>ఀ</c>ఆ <c:#f0f008>its3vie</c>
+styled-nicknames set velviaz <c:#f0f008>ఀ</c>ఆ <c:#f0f008>velviaz</c>

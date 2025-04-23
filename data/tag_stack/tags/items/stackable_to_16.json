@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:water_bucket",
+    "spelunkery:spring_water_bucket",
+    "minecraft:lava_bucket",
+    "supplementaries:lumisene_bucket",
+    "minecraft:powder_snow_bucket",
+    "minecraft:milk_bucket",
+    "spelunkery:portal_fluid_bucket{}",
+    "meadow:wooden_water_bucket",
+    "meadow:wooden_milk_bucket",
+    "meadow:wooden_sheep_milk_bucket",
+    "meadow:wooden_buffalo_milk_bucket",
+    "meadow:wooden_goat_milk_bucket",
+    "meadow:wooden_warped_milk_bucket",
+    "meadow:wooden_grain_milk_bucket",
+    "meadow:wooden_amethyst_milk_bucket",
+    "mysticsbiomes:strawberry_milk_bucket",
+    "mysticsbiomes:vanilla_milk_bucket",
+    "mysticsbiomes:chocolate_milk_bucket"
+  ]
+}
