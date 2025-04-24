@@ -1,0 +1,5 @@
+{
+  "type": "trivia",
+  "prompt": "Did Dylan take a shower today?",
+  "answers": ["yes", "no"]
+}

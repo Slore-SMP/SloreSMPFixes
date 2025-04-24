@@ -1,0 +1,5 @@
+{
+  "type": "trivia",
+  "prompt": "I don’t blink, I don’t sleep, I watch every move you keep. Place me in redstone, and I react, What block am I? That’s a fact!",
+  "answers": ["Observer"]
+}

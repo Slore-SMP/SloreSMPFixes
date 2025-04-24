@@ -1,0 +1,5 @@
+{
+  "type": "trivia",
+  "prompt": "What blocks do zombies pathfind to?",
+  "answers": ["Turtle Eggs", "Turtle Egg"]
+}

@@ -1,0 +1,5 @@
+{
+  "type": "trivia",
+  "prompt": "What was used in minecraft as a replacement of /setblock before it was introduced?",
+  "answers": ["Minecart Spawner"]
+}
