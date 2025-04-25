@@ -1,0 +1,84 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "daisy_powers:shard_of_origin",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond_block",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:netherite_ingot",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "minecraft:enchanted_golden_apple",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "minecraft:golden_apple",
+          "weight": 8
+        },
+        {
+          "type": "item",
+          "name": "minecraft:nether_star",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "minecraft:emeral_block",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:experience_bottle",
+          "weight": 12
+        },
+        {
+          "type": "item",
+          "name": "botania:terrasteel_ingot",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "botania:manasteel_ingot",
+          "weight": 8
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gold_block",
+          "weight": 8
+        },
+        {
+          "type": "item",
+          "name": "minecraft:elytra",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "botania:water_bowl",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "minecraft:raw_iron_block",
+          "weight": 25
+        }
+      ]
+    }
+  ]
+}
