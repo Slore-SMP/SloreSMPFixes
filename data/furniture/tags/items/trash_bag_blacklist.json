@@ -1,6 +1,12 @@
 {
   "replace": false,
   "values": [
-    "slore:reaper"
+    "daisy:calcite_frog_statue",
+    "daisy:movie_script",
+    "daisy:prize_bag",
+    "daisy:reaper",
+    "daisy_powers:shard_of_origin",
+    "botania:creative_pool",
+    "daisy:calcite_frog_statue"
   ]
 }
