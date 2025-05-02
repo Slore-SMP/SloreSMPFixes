@@ -3,7 +3,7 @@
     "fuel": 1.25,
     "yawSpeed": 5.0,
     "pitchSpeed": 4.0,
-    "engineSpeed": 0.045,
+    "engineSpeed": 0.03,
     "pushSpeed": 0.025,
     "glideFactor": 0.05,
     "driftDrag": 0.01,
@@ -27,7 +27,7 @@
   "weaponMounts": [
     {
       "ROTATING": [
-        {"x": 0, "y": 0.9, "z": -1.1875, "blocking": true}
+        {"x": 0, "y": 0.9, "z": -1.1875}
       ],
       "FRONT": [
         {"x": -1.0, "y": 0.3375, "z": 1.125},

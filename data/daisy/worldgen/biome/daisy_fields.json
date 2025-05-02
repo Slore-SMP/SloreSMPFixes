@@ -1,6 +1,6 @@
 {
   "temperature": 2.0,
-  "downfall": 0,
+  "downfall": 0.0,
   "has_precipitation": true,
   "effects": {
     "sky_color": 7907327,
@@ -16,7 +16,14 @@
       "probability": 0.0125
     }
   },
-  "spawners": {},
+    "spawners": {
+      "creature": [],
+      "ambient": [],
+      "monster": [],
+      "water_creature": [],
+      "water_ambient": [],
+      "misc": []
+  },
   "spawn_costs": {},
   "carvers": {},
   "features": []
