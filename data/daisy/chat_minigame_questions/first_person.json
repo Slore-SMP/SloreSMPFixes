@@ -1,5 +1,6 @@
 {
-  "type": "trivia",
   "prompt": "Who was the first person to join the server?",
-  "answers": ["macuguita"]
+  "answers": [
+    "macuguita"
+  ]
 }

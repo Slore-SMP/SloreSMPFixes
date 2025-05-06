@@ -1,5 +1,6 @@
 {
-  "type": "trivia",
   "prompt": "I travel the world, selling my stuff, With llamas beside me, my deals are tough. I disappear at night, without a sound, Who am I? Am I around?",
-  "answers": ["Wandering Trader"]
+  "answers": [
+    "Wandering Trader"
+  ]
 }

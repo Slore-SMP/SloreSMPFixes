@@ -1,5 +1,6 @@
 {
-  "type": "trivia",
   "prompt": "I fly at night, I hunt you down, If you don’t sleep, I’ll make you frown. I swoop and screech, I come in a flock, What am I? Check the clock!",
-  "answers": ["Phantom"]
+  "answers": [
+    "Phantom"
+  ]
 }

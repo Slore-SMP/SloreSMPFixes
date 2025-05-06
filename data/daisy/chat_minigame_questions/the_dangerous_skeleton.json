@@ -1,5 +1,7 @@
 {
-  "type": "trivia",
   "prompt": "I have three heads, I fly and fight, Summon me, and you’ll fear my might. A deadly boss, with a skull so black, What am I? Watch your back!",
-  "answers": ["Wither", "Wither boss"]
+  "answers": [
+    "Wither",
+    "Wither boss"
+  ]
 }

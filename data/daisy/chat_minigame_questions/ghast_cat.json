@@ -1,5 +1,6 @@
 {
-  "type": "trivia",
   "prompt": "What animal was recorded to make the ghast sound?",
-  "answers": ["Cat"]
+  "answers": [
+    "Cat"
+  ]
 }

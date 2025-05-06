@@ -1,5 +1,6 @@
 {
-  "type": "trivia",
   "prompt": "I walk so tall, I never blink, If you stare at me, I’ll make you shrink. I teleport and steal your blocks, What am I? Think outside the box!",
-  "answers": ["Enderman"]
+  "answers": [
+    "Enderman"
+  ]
 }

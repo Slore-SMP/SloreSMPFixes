@@ -1,5 +1,8 @@
 {
-  "type": "trivia",
   "prompt": "What is the percentage of a pink sheep spawning?",
-  "answers": ["0.164", "0,164", "0'164"]
+  "answers": [
+    "0.164",
+    "0,164",
+    "0'164"
+  ]
 }

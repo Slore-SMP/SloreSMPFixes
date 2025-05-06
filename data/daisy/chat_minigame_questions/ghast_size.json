@@ -1,5 +1,7 @@
 {
-  "type": "trivia",
   "prompt": "How big is a ghast?",
-  "answers": ["5 blocks", "5"]
+  "answers": [
+    "5 blocks",
+    "5"
+  ]
 }

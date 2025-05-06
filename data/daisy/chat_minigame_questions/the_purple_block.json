@@ -1,5 +1,6 @@
 {
-  "type": "trivia",
   "prompt": "I sparkle and shine, I grow inside, With crystals forming, I like to hide. I make a sound when you step near, What am I? Do you hear?",
-  "answers": ["Amethyst"]
+  "answers": [
+    "Amethyst"
+  ]
 }

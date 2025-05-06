@@ -1,5 +1,6 @@
 {
-  "type": "trivia",
   "prompt": "I don’t knock, I don’t ring, I just show up and ruin everything. I hiss, I pop, then I’m gone, What am I? Guess before I respawn!",
-  "answers": ["Creeper"]
+  "answers": [
+    "Creeper"
+  ]
 }

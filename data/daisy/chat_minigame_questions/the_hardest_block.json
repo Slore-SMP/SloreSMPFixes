@@ -1,5 +1,6 @@
 {
-  "type": "trivia",
   "prompt": "You cannot break me, no matter how, Even with diamonds, or using a plow. I sit at the bottom, strong and tall, What am I? I don’t fall!",
-  "answers": ["Bedrock"]
+  "answers": [
+    "Bedrock"
+  ]
 }

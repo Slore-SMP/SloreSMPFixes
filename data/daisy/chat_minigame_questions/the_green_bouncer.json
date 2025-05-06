@@ -1,5 +1,6 @@
 {
-  "type": "trivia",
   "prompt": "I bounce and bounce, I jump so high, I split in pieces, but never die. I’m green and gooey, found in caves, What am I? That misbehaves!",
-  "answers": ["Slime"]
+  "answers": [
+    "Slime"
+  ]
 }

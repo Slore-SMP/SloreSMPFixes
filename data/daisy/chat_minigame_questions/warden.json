@@ -1,5 +1,7 @@
 {
-  "type": "trivia",
   "prompt": "Where do you find the Warden?",
-  "answers": ["Ancient City", "Deep Dark"]
+  "answers": [
+    "Ancient City",
+    "Deep Dark"
+  ]
 }

@@ -1,5 +1,6 @@
 {
-  "type": "trivia",
   "prompt": "I burn your feet, I bubble bright, Found in the Nether, glowing light. I pull things down, I don’t let go, What block am I? Do you know?",
-  "answers": ["Magma Block"]
+  "answers": [
+    "Magma Block"
+  ]
 }

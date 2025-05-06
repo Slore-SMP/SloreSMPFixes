@@ -1,5 +1,6 @@
 {
-  "type": "trivia",
   "prompt": "I look normal, but don’t step in, I’ll pull you down, where you’ve been. Snow or sand, I act the same, What am I? Say my name!",
-  "answers": ["Powdered Snow"]
+  "answers": [
+    "Powdered Snow"
+  ]
 }

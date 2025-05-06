@@ -1,5 +1,6 @@
 {
-  "type": "trivia",
   "prompt": "I’m deep underground, I’m shiny and rare, I make the best tools, if you dare. With an iron pick, you can take me home, What am I? You should have known!",
-  "answers": ["Diamond"]
+  "answers": [
+    "Diamond"
+  ]
 }

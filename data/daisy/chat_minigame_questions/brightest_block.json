@@ -1,5 +1,6 @@
 {
-  "type": "trivia",
   "prompt": "I shine in the Nether, I light up the night, Break me apart, and I lose my might. I glow so bright, yet I’m not the sun, What block am I? Guess this one!",
-  "answers": ["Glowstone"]
+  "answers": [
+    "Glowstone"
+  ]
 }

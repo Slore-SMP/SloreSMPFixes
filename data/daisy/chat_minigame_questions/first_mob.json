@@ -1,5 +1,6 @@
 {
-  "type": "trivia",
   "prompt": "What was the first mob ever?",
-  "answers": ["Steve"]
+  "answers": [
+    "Steve"
+  ]
 }

@@ -1,5 +1,6 @@
 {
-  "type": "trivia",
   "prompt": "I hide in stone, I make you scream, Break my block, and out I stream! I’m tiny, fast, and really small, What am I? Not fun at all!",
-  "answers": ["Silverfish"]
+  "answers": [
+    "Silverfish"
+  ]
 }

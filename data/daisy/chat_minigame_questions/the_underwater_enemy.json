@@ -1,5 +1,6 @@
 {
-  "type": "trivia",
   "prompt": "I swim in temples, deep and blue, With one big eye, I look at you. I shoot a beam, it’s not so fun, What am I? Better run!",
-  "answers": ["Guardian"]
+  "answers": [
+    "Guardian"
+  ]
 }

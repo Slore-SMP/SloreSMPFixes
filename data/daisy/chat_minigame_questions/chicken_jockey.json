@@ -1,5 +1,7 @@
 {
-  "type": "trivia",
   "prompt": "What minecraft bird cannot lay eggs?",
-  "answers": ["Chicken Jockey", "Parrot"]
+  "answers": [
+    "Chicken Jockey",
+    "Parrot"
+  ]
 }

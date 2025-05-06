@@ -1,5 +1,6 @@
 {
-  "type": "trivia",
   "prompt": "I rule the End, I’m big and black, Defeat me once, and don’t look back. I breathe out magic, I fly up high, What boss am I? Give it a try!",
-  "answers": ["Ender Dragon"]
+  "answers": [
+    "Ender Dragon"
+  ]
 }
